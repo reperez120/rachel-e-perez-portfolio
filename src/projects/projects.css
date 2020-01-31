@@ -28,6 +28,30 @@ h4 {
   font-weight: bold;
 }
 
+.PhotoCollectionImage {
+  display: flex;
+  flex-direction: column;
+  background-position: center;
+  background-image: url("https://user-images.githubusercontent.com/46304321/72545301-bd3bbe80-3880-11ea-8524-6608e927ecbe.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+  height: 20rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 700px) {
+  .PhotoCollectionImage {
+    height: 15rem;  
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+    background-image: url("https://user-images.githubusercontent.com/46304321/72545301-bd3bbe80-3880-11ea-8524-6608e927ecbe.png");
+  }
+} 
+
+
 .WriteNowImage {
   display: flex;
   flex-direction: column;

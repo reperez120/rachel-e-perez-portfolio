@@ -14,10 +14,37 @@ class Projects extends Component {
         <div className='Projects'>
             <header className='projectsHeader'>
                 <h1>Projects</h1>
-                <h3>Below is a selection of apps I developed. For each, I have provided the app name, a description, a screenshot, a list of technologies used, and links to the live version and GitHub repo. </h3>
+                <h3>Below is a selection of projects I designed, developed, and deployed. For each, I have provided the app name, a description, a screenshot, a list of technologies used, and links to the live version and GitHub repo. </h3>
             </header>
             <br></br>
             <main className="projectsMain">
+            <h2>
+                Photo Collection
+              </h2>
+              <div className="projectsRow">
+                <div className="projectsColumnLeft">
+                 My photo collection is a website I deployed using Amazon Web Services as a server. It is a website where I display some favorite photographs that I took. 
+                 It currently focuses on photographs of plants and landscapes, though I plan to extend it to other categories such as animals and urban scenes.
+                </div>
+                <div className="projectsColumnRight">
+                  <div
+                    className="PhotoCollectionImage">
+                  </div>
+              </div>
+              </div>
+              <h3>Technologies Used:</h3> 
+                   <h4>HTML, CSS, JavaScript, Node, Express, Nginx, Amazon Web Services</h4>
+                  <h4> 
+                    <a href="http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/" 
+                    target="_blank"> 
+                    Live Version
+                    </a> 
+               
+                <a href="https://github.com/reperez120/new-server" 
+                target="_blank"> GitHub Repo
+                </a> 
+              </h4>
+              <br></br>
               <h2>
                 Write Now
               </h2>
