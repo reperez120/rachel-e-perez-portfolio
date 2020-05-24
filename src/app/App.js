@@ -31,7 +31,7 @@ function App() {
         </ul> 
     </nav>
     </header>
-    <main>
+    <main className="main"> 
       <Route 
         exact path='/' 
         component={Home} 
@@ -49,6 +49,9 @@ function App() {
         component={Contact} 
       />    
       </main>
+      <div className="footer">
+        © Rachel E. Perez
+      </div>
     </div>
   );
 }

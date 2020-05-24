@@ -1,5 +1,30 @@
+
 .contactHeader {
   margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding-left: 4rem;
+  padding-right: 4rem; 
+}
+
+.Contact {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem; 
+}
+
+.contactMain {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem; 
+  background-color: white;
+  border: .5px solid lightgray;
 }
 
 ul {

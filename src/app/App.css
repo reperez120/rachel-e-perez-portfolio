@@ -11,11 +11,13 @@
     padding-right: 0rem; 
 }
 
-@media screen and (min-width: 700px) {
-  * {
-    padding-left: .5rem;
-    padding-right: .5rem; 
-  }
+.App-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: #f0f5f5;
+  z-index: 1;
+  box-shadow: 1px 2px;
 }
 
 .menu {
@@ -40,9 +42,13 @@
 }
 
 .menu > li {
-  float: left;
+  float: center;
   display: block;
   text-align: center;
+}
+
+ .menu a:hover {
+  color: white;
 }
 
 a {
@@ -58,6 +64,8 @@ p {
   margin-top: .2rem;
   margin-right: 0rem;
   margin-left:  0rem;
+  background-color: lightgray;
+  border: 2px solid black;
 }
 
 @media screen and (min-width: 700px) {
@@ -67,5 +75,17 @@ p {
     margin-bottom: 3rem;
     padding-right: 2rem; 
     padding-left: 2rem;
+    background-color: lightgray;
+    border: 2px solid black; 
   } 
+}
+
+.main {
+    margin-top: 235px;
+    padding-bottom: 6rem;
+}
+
+.footer {
+  font-size: 1rem;
+  padding-bottom: 3rem;
 }

@@ -14,14 +14,12 @@ class Contact extends Component {
         <div className='Contact'>
             <header className='contactHeader'>
                 <h1>Contact Me</h1>
-                <h3 className="contactHeader">Please feel free to contact me through any of the sources listed below by clicking on the corresponding text. 
-                      I am always interested in learning about new opportunities, receiving feedback on previous work, and hearing from people with similar interests.</h3>
-                <div className="contactRow">
-                  <div className="contactColumn">
-                  </div>
-                </div>
             </header>
-            <main>
+                <div className="contactRow">
+                  <div className="contactColumn"></div>
+            <main className = "contactMain">
+            <h3>Please feel free to contact me through any of the sources listed below by clicking on the corresponding text. 
+                    I am always interested in learning about new opportunities, receiving feedback on previous work, and hearing from people with similar interests.</h3>
                 <ul className="contacts">
                   <div className="email">
                   </div>
@@ -46,7 +44,8 @@ class Contact extends Component {
                   </li>
             </ul>
           </main>
-        </div>
+          </div>
+        </div>  
       );
     } 
 }

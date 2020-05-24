@@ -21,7 +21,7 @@ class About extends Component {
               <div className="aboutRow">
                 <div className="aboutColumn">
                   While studying human languages as a PhD student at Yale, I developed an interest in computer languages. 
-                  That interest inspired me to enroll in Thinkful’s Full Stack Web Development Program, which I will complete in August 2019.
+                  That interest inspired me to enroll in Thinkful’s Full Stack Web Development Program, which I completed in 2019.
                   I have developed my programming skills through a number of <Link to="/projects">projects</Link> and through applying syntax analysis methods I learned as a linguistics student.
                   I currently have experience with full-stack web development using technologies that include HTML, CSS, Javascript, JQuery, Node, PostgreSQL, Express, React. 
                   I also have experience with UX/UI Design and technical writing, as well as with technologies such as GitHub, Amazon Web Services, PostMan and DBeaver.

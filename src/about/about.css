@@ -2,14 +2,14 @@
     display: flex;
     flex-direction: column;
     background-position: center;
-    height: 8rem;  
+    height: 12rem;  
     background-size: contain;
     background-repeat: no-repeat;
     align-items: center;
     justify-content: center;
     margin-bottom: 1rem;
     margin-top: 0rem;
-    background-image: url("https://user-images.githubusercontent.com/46304321/62231060-c7413200-b3b2-11e9-98cd-3f637e50a07f.jpg");
+    background-image: url("https://user-images.githubusercontent.com/46304321/77119739-f8986c00-6a2e-11ea-88d9-a9e071aac908.JPG");
 }
   
 @media screen and (min-width: 700px) {
@@ -17,12 +17,12 @@
         display: flex;
         flex-direction: column;
         background-position: center;
-        background-image: url("https://user-images.githubusercontent.com/46304321/62231060-c7413200-b3b2-11e9-98cd-3f637e50a07f.jpg");
+        background-image: url("https://user-images.githubusercontent.com/46304321/77119739-f8986c00-6a2e-11ea-88d9-a9e071aac908.JPG");
         background-size: contain;
         background-repeat: no-repeat;
         align-items: center;
         justify-content: center;
-        height: 10rem;
+        height: 15rem;
         margin-top: 2rem;
         margin-bottom: 2rem;
     }
@@ -33,7 +33,6 @@
     margin-right: 2rem;
 }
 
-
 .aboutColumn {
     width: 100%;
     margin-bottom: 1rem;
@@ -42,11 +41,11 @@
     margin-right: 1rem;
 }
 
-
 @media screen and (min-width: 700px) {
   .aboutColumn {
     flex: 20%;
     text-align: justify;
+    font-size: 1.2rem;
     margin-left: 1rem;
     margin-right: 1rem;
     font-size: 1.2rem;
@@ -56,6 +55,16 @@
 
 .aboutRow {
     display: flex;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem; 
+    background-color: white;
+    border: .5px solid lightgray;
 }
 
 @media screen and (max-width: 700px) {

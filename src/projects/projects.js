@@ -18,6 +18,7 @@ class Projects extends Component {
             </header>
             <br></br>
             <main className="projectsMain">
+            <div className= "Photos">
             <h2>
                 Photo Collection
               </h2>
@@ -44,7 +45,9 @@ class Projects extends Component {
                 target="_blank"> GitHub Repo
                 </a> 
               </h4>
+              </div>
               <br></br>
+              <div className="Write">
               <h2>
                 Write Now
               </h2>
@@ -77,7 +80,9 @@ class Projects extends Component {
                 API Repo
                 </a>
               </h4>
+              </div>
               <br></br>
+              <div className="What">
               <h2>
                 What'll It Be?
               </h2>
@@ -110,7 +115,9 @@ class Projects extends Component {
                   API Repo
                   </a>
                 </h4>
+                </div>
               <br></br>
+              <div className="Cat">
               <h2>
                 Cat-A-Log
               </h2>
@@ -136,8 +143,10 @@ class Projects extends Component {
                 target="_blank"> Repo Version
                 </a> 
               </h4>
-              <h2>
+              </div>
               <br></br>
+              <div className="Hard">
+              <h2>
                 A Hard Day's Quiz
               </h2>
               <div className="projectsRow">
@@ -166,6 +175,7 @@ class Projects extends Component {
                 target="_blank"> Repo Version
                 </a> 
               </h4>
+              </div>
               <br></br>
           </main>
         </div>

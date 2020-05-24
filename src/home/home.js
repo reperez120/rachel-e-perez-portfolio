@@ -13,6 +13,7 @@ class Home extends Component {
       return (
         <div className='Home'>
             <header className='homeHeader'>
+            <h1>Welcome</h1>
               <a href="http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/" target="_blank" >< div className="leafImage"> 
               <h6>© Rachel Perez</h6>
               </div> </a>
@@ -20,9 +21,9 @@ class Home extends Component {
             <main className="homeMain">
               <div className="homeRow">
                 <div className="homeColumn">
-                  My name is Rachel and I enjoy working with languages, computer and human. I am technical writer and web developer with experience using
+                  My name is Rachel and I enjoy working with languages, computer and human. I am a technical writer, technical consultant, and web developer with experience using
                   HTML, CSS, JavaScript, JQuery, Node, Express, React, and PostgreSQL to design, build, and deploy full stack web apps. I am looking to 
-                  deepen my knowledge in those areas and expand it to others by working on additional development and technical writing projects.
+                  deepen my knowledge in those areas and expand it to others by working on additional development and technical writing and consulting projects.
                 </div>
                 <div className="homeColumn">
                   To see some of my work, check out my <Link to="/projects">Projects</Link> page.
