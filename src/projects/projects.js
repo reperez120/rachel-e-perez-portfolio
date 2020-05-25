@@ -33,7 +33,8 @@ class Projects extends Component {
                   </div>
               </div>
               </div>
-              <h3>Technologies Used:</h3> 
+              <div className="border"></div>
+              <h3>Technologies Used</h3> 
                    <h4>HTML, CSS, JavaScript, Node, Express, Nginx, Amazon Web Services</h4>
                   <h4> 
                     <a href="http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/" 
@@ -63,7 +64,8 @@ class Projects extends Component {
               </div>
               </div>
               </div>
-              <h3>Technologies Used:</h3> 
+              <div className="border"></div>
+              <h3>Technologies Used</h3> 
                    <h4>HTML, CSS, JavaScript, React, Node, Express, PostGreSQL</h4>
                   <h4> 
                     <a href="https://write-now-app.reperez120.now.sh/" 
@@ -98,7 +100,8 @@ class Projects extends Component {
                   </div>
                 </div>
                 </div>
-                    <h3>Technologies Used:</h3> 
+                <div className="border"></div>
+                    <h3>Technologies Used</h3> 
                    <h4>HTML, CSS, JavaScript, React, Node, Express, PostGreSQL</h4>
                   <h4> 
                     <a href="https://whatll-it-be-app.reperez120.now.sh/" 
@@ -131,7 +134,8 @@ class Projects extends Component {
                 </div>
                 </div>
                 </div>
-                <h3>Technologies Used: </h3> 
+                <div className="border"></div>
+                <h3>Technologies Used</h3> 
                 <h4>HTML, CSS, JavaScript, JQuery, APIs</h4>
               <h4> 
                 <a href="https://reperez120.github.io/CatALogApp/" 
@@ -161,9 +165,8 @@ class Projects extends Component {
                 </div>
                 </div>
                 </div>
-                <h3>
-                  Technologies Used: 
-                </h3>
+                <div className="border"></div>
+                <h3>Technologies Used</h3>
                 <h4>HTML, CSS, JavaScript, JQuery</h4>
                 <h4>
                   <a href="https://reperez120.github.io/Beatles-Quiz" 

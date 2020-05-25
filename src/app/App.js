@@ -48,11 +48,12 @@ function App() {
         exact path='/contact' 
         component={Contact} 
       />    
-      </main>
+     </main>
+
       <div className="footer">
         © Rachel E. Perez
       </div>
-    </div>
+ </div>
   );
 }
 

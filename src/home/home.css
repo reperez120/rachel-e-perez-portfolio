@@ -1,3 +1,7 @@
+.Home {
+    background-color: #f2f2f2;
+}
+
 .leafImage {
     display: flex;
     flex-direction: column;
@@ -37,6 +41,7 @@ h6 {
     margin-right: 7.5rem;
     color:#b3cccc;
     margin-bottom: 1rem;
+    background-color: transparent;
 
 }
 
