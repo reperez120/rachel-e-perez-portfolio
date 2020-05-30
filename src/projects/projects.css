@@ -1,9 +1,13 @@
+.projectsHeader {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
 .projectsMain {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
 
 h2 {
@@ -51,7 +55,6 @@ h4 {
     background-image: url("https://user-images.githubusercontent.com/46304321/72545301-bd3bbe80-3880-11ea-8524-6608e927ecbe.png");
   }
 } 
-
 
 .WriteNowImage {
   display: flex;
@@ -161,6 +164,8 @@ h4 {
   padding-right: 2rem; 
   background-color: white;
   border: .5px solid lightgray;
+  border-radius: .25rem;
+  
 }
 
 .projectsRow {

@@ -16,7 +16,7 @@ class Home extends Component {
             <h1>Welcome</h1>
               <a href="http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/" target="_blank" >< div className="leafImage"> 
               <h6>© Rachel Perez</h6>
-              </div> </a>
+               </div> </a>
             </header>
             <main className="homeMain">
               <div className="homeRow">

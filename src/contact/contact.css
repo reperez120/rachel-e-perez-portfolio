@@ -25,6 +25,7 @@
   padding-right: 2rem; 
   background-color: white;
   border: .5px solid lightgray;
+  border-radius: .25rem;
 }
 
 ul {

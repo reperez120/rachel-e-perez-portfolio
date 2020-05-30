@@ -39,9 +39,8 @@ class Projects extends Component {
                   <h4> 
                     <a href="http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/" 
                     target="_blank"> 
-                    Live Version
-                    </a> 
-               
+                    Live Version  
+                    </a> | 
                 <a href="https://github.com/reperez120/new-server" 
                 target="_blank"> GitHub Repo
                 </a> 
@@ -70,16 +69,13 @@ class Projects extends Component {
                   <h4> 
                     <a href="https://write-now-app.reperez120.now.sh/" 
                     target="_blank"> 
-                    Live Version
-                    </a> 
-               
+                    Live Version 
+                    </a> |
                 <a href="https://github.com/reperez120/write-now-client" 
                 target="_blank"> Client Repo
-                </a> 
-         
+                </a> |
                 <a href="https://github.com/reperez120/write-now-api"
-                target="_blank">
-                API Repo
+                target="_blank"> API Repo
                 </a>
               </h4>
               </div>
@@ -106,16 +102,13 @@ class Projects extends Component {
                   <h4> 
                     <a href="https://whatll-it-be-app.reperez120.now.sh/" 
                     target="_blank"> 
-                    Live Version
-                   </a> 
-      
+                    Live Version 
+                   </a> |
                   <a href="https://github.com/reperez120/whatll-it-be-app-client" 
-                  target="_blank"> Client Repo
-                  </a>  
-                  
+                  target="_blank">  Client Repo
+                  </a> |              
                   <a href="https://github.com/reperez120/whatll-it-be-mvp"
-                  target="_blank">
-                  API Repo
+                  target="_blank"> API Repo
                   </a>
                 </h4>
                 </div>
@@ -139,10 +132,7 @@ class Projects extends Component {
                 <h4>HTML, CSS, JavaScript, JQuery, APIs</h4>
               <h4> 
                 <a href="https://reperez120.github.io/CatALogApp/" 
-                target="_blank"> 
-                Live Version
-                </a> 
-             
+                target="_blank">Live Version </a> |
                 <a href="https://github.com/reperez120/CatALogApp" 
                 target="_blank"> Repo Version
                 </a> 
@@ -171,11 +161,10 @@ class Projects extends Component {
                 <h4>
                   <a href="https://reperez120.github.io/Beatles-Quiz" 
                   target="_blank"> 
-                  Live Version
-                </a> 
-              
+                  Live Version 
+                </a> |
                 <a href="https://github.com/reperez120/Beatles-Quiz" 
-                target="_blank"> Repo Version
+                target="_blank">  Repo Version
                 </a> 
               </h4>
               </div>
