@@ -21,13 +21,11 @@ class Home extends Component {
             <main className="homeMain">
               <div className="homeRow">
                 <div className="homeColumn">
-                  My name is Rachel and I enjoy working with languages, computer and human. I am a technical writer, technical consultant, and web developer with experience using
-                  HTML, CSS, JavaScript, JQuery, Node, Express, React, and PostgreSQL to design, build, and deploy full stack web apps. I am looking to 
-                  deepen my knowledge in those areas and expand it to others by working on additional development and technical writing and consulting projects.
+                I enjoy combining written language, both human and computer with visuals to create projects such as interactive web apps, documentation,  training,  articles and journals. I currently have experience with tools and technologies such as HTML, CSS, JavaScript, SQL, Vercel, Hugo, GitHub, Photoshop, Illustrator, Procreate,  Canva, Gimp, WordPress, and SharePoint Pages.
                 </div>
                 <div className="homeColumn">
-                  To see some of my work, check out my <Link to="/projects">Projects</Link> page.
-                  To learn more details about my skillset, programming journey, and some of my other interests and skills check out my <Link to="/about">About Me</Link> page.
+                I am always looking to hone my skills through technical writing, UX and UI, graphic design, and web developemnt projects. To see some of my work, check out my <Link to="/projects">Projects</Link> page.
+                  To learn more details about my skillset and some of my other interests check out my <Link to="/about">About Me</Link> page.
                   If you are interested in getting in touch with me you can reach me through any of the methods listed on my <Link to="/contact">Contact Me</Link> page.
                 </div>
                 </div>
