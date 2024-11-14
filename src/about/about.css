@@ -9,7 +9,7 @@
     justify-content: center;
     margin-bottom: 1rem;
     margin-top: 0rem;
-    background-image: url("https://user-images.githubusercontent.com/46304321/77119739-f8986c00-6a2e-11ea-88d9-a9e071aac908.JPG");
+    background-image: url("https://raw.githubusercontent.com/reperez120/rachel-e-perez-portfolio/refs/heads/master/images/2024%20headshot.jpeg");
 }
   
 @media screen and (min-width: 700px) {
@@ -17,7 +17,7 @@
         display: flex;
         flex-direction: column;
         background-position: center;
-        background-image: url("https://user-images.githubusercontent.com/46304321/77119739-f8986c00-6a2e-11ea-88d9-a9e071aac908.JPG");
+        background-image: url("https://raw.githubusercontent.com/reperez120/rachel-e-perez-portfolio/refs/heads/master/images/2024%20headshot.jpeg");
         background-size: contain;
         background-repeat: no-repeat;
         align-items: center;
